@@ -1,6 +1,31 @@
 # FILMES-LEGENDA-FIXA
 
 
+
+<item>
+<title>[COLOR silver][B]  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B09BB90E82431B0DECC576B8F8CA86E525F10110</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zz8R7AM5WgvXLBInG66X4UPM9PA.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em 2022, o cineasta Dillon Brown partiu com Boina Verde e especialista em sobrevivência na selva, Michael Rock, para documentar uma tentativa de encontrar uma pessoa desaparecida. O que eles encontraram foi um horror pensado para ser um mito.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] TELL IT LIKE A WOMAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1D09289C8BD497A02588AD34FD4A88AF881FAD57</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/s4tKbdmxXrPVH9QhznNKuCkHeaO.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Histórias de mulheres, tanto na frente como atrás da câmera.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] THE CONSULTANT [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DBF61EF643F9888658928D54FFDACB10E653A6ED</link>
+<thumbnail></thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um psiquiatra revive todos os seus medos do passado com a chegada de três novos pacientes.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] THREE DAY MILLIONARE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54EB0F0801003A98D9410F9BB284432E6DE452D9</link>
