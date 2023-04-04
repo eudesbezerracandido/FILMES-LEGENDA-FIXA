@@ -3,7 +3,15 @@
 
 
 <item>
-<title>[COLOR silver][B]  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<title>[COLOR silver][B] CIVIL WAR SAINT [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:356CBB2936A585DA74C817122817EB78A7EA3F33</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pEWu4REs7YFjEAY2hPwnbu3rbwW.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um soldado ferido da Guerra Civil acorda para descobrir que a guerra acabou e seu salvador é um amigo inesperado enviado por Deus, um São Bernardo que o salva e mostra o caminho para casa. Mas ele pode superar as cicatrizes da guerra e aprender a amar novamente?</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] TAHOE JOE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B09BB90E82431B0DECC576B8F8CA86E525F10110</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/zz8R7AM5WgvXLBInG66X4UPM9PA.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
