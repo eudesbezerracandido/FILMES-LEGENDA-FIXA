@@ -2,8 +2,13 @@
 
 
 
-
-
+<item>
+<title>[COLOR silver][B] GUARDIÕES DO TEMPO - DUBLADO NÃO OFICIAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8EDA07633EC0BAAA66F340090FC5387A111A36EC</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/a7PZv5Px1npYX0lm1v6WtfnZcVL.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um dia, na mansão da família, quatro primos descobrem uma passagem que leva a um mundo misterioso. Presos nesta terra desconhecida, está o Reino de Keoherus, eles devem enfrentar o Guardião do Tempo e enfrentar forças e feras das trevas para voltarem para casa.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] SONS OF PREACHER ( LEGENDA FIXA )  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
