@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B]  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8157B17AE1A92D85E251F823C3B1350B5A64BB84</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xcnCkyudjrzeA6wqeb5HrmTkmLS.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A fim de salvar Lan Moyi, que possui um dos dez corpos sagrados para cultivar imortais, mas está morrendo de alienação, Fu Yan resolutamente foi para o lugar divinamente abençoado no antigo campo de batalha guardado pelo avatar de um mestre do verdadeiro deus estágio para procure a Chama Divina. O antigo campo de batalha é dividido em três camadas, uma camada supera a outra por pouco. Quando ele derrotou a besta guardiã externa Chimo Xuanjiao e chegou à entrada, ele encontrou seu inimigo mortal que foi para a região polar média de quatro elementos para subjugar a besta espiritual e foi ferido há milhares de anos, o Mestre da Seita Cangyan Cangshi Lingjun. Após a feroz batalha, eles se reconciliaram e foram juntos para a região polar intermediária dos quatro elementos.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] GUARDIÕES DO TEMPO - DUBLADO NÃO OFICIAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8EDA07633EC0BAAA66F340090FC5387A111A36EC</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/a7PZv5Px1npYX0lm1v6WtfnZcVL.jpg</thumbnail>
