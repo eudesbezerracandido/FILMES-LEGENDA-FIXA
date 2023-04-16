@@ -2,6 +2,17 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] THE LAKE- O LAGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8B8227FB02A10D4208384C067AADBB4C4268EA00$nome=LEGENDA FIXA</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EA80C3AC9263212C229AC398712AC01C4324DA96$nome=DUBLADO NAO OFICIAL</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2jV8PLAHS9k8NMDFKkigi0qVGlL.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um monstro gigantesco e sanguinário emerge de um lago depois que seu ovo é roubado e libera sua fúria sobre os habitantes de uma cidade, deixando um rastro de destruição e morte por onde passa. A cidade de Bueng Kan, agora isolada do mundo exterior, deve mobilizar seus funcionários e cidadãos, bem como um grupo de cientistas que estão na cidade realizando pesquisas, para capturar esse predador antes que seja tarde demais.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] DRAGON CULTIVADOR 3 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8157B17AE1A92D85E251F823C3B1350B5A64BB84$nome=LEG FIXA</link>
