@@ -5,6 +5,15 @@
 
 
 <item>
+<title>[COLOR silver][B] BABY DADDY-BEBE DO PAPAI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6610A9DA1EDF1C48E55A63BD944F9D3FF3A67763$nome=LEGENDA FIXA</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:56052C79B7F115DA74F47AA8F4E3402E244C76D5$nome=DUBLADO NAO OFICIAL</link>
+<thumbnail></thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Este drama segue John, um homem perdido com sete mães bebês. Sua vida está em constante turbulência enquanto eles lhe dão o Inferno na Terra.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] THE LAKE- O LAGO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8B8227FB02A10D4208384C067AADBB4C4268EA00$nome=LEGENDA FIXA</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:EA80C3AC9263212C229AC398712AC01C4324DA96$nome=DUBLADO NAO OFICIAL</link>
