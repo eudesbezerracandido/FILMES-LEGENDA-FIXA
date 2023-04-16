@@ -2,6 +2,14 @@
 
 
 
+<item>
+<title>[COLOR silver][B] THE SOCIAL EXPERIMENT  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FE109555B80B1F0B5633327EF6161A79E9B41EC3$nome=LEGENDA FIXA</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C1826713A453CA6575C3F7AAC7992A75E718A313$nome=DUBLADO NAO OFICIAL</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eysGwKUM9ME7xzF80A7hlWXBbgh.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O emocionante thriller de ficção científica foi o primeiro longa-metragem alemão a ser filmado em um estúdio LED e lida com amizade, manipulação e mídia social. Jackpot! Adrian e seu grupo são atraídos para uma “Aventura no Escape Room”. Mas a diversão recreativa supostamente inofensiva acaba sendo um pérfido experimento de análise comportamental conduzido por dois cientistas. Para poder adaptar os jogos exatamente aos pontos fortes, fracos e características do grupo, eles programaram uma IA. E isso começa a jogar os amigos uns contra os outros e a confrontá-los com seus medos mais profundos – uma luta até a morte começa.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] BABY DADDY-BEBE DO PAPAI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
