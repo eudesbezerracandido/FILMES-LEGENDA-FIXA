@@ -1,6 +1,16 @@
 # FILMES-LEGENDA-FIXA
 
 
+
+
+<item>
+<title>[COLOR silver][B] EO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9dae38d453c1b323ced909656008b3b4ea729826</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1MK86Vr2nf1GSYOtRd8pFvA5RM8.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um burro que encontra pessoas boas e más em suas viagens experimenta alegria e dor, explorando uma visão da Europa moderna através de seus olhos.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] R.M.N [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d43ff07f4e0a53b09b85461250a0b698cabe73c</link>
