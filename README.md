@@ -1,6 +1,13 @@
 # FILMES-LEGENDA-FIXA
 
 
+<item>
+<title>[COLOR silver][B] R.M.N [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d43ff07f4e0a53b09b85461250a0b698cabe73c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kDcEfgF7CUo0IYLIazUYYqxagTG.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Poucos dias antes do Natal, depois de largar o emprego na Alemanha, Matthias regressa à sua aldeia na Transilvânia. Ele deseja se envolver mais na educação de seu filho, Rudi, deixado por muito tempo aos cuidados de sua mãe, Ana, e livrá-lo dos medos não resolvidos que o dominaram. Ele também está ansioso para ver sua ex-amante Csilla e preocupado com seu velho pai, Otto. Quando alguns novos trabalhadores são contratados na pequena fábrica que Csilla administra, a paz da comunidade é perturbada, medos subjacentes dominam os adultos e frustrações, conflitos e paixões irrompem na fina lasca de aparente compreensão e calma.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] THE SOCIAL EXPERIMENT  [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
