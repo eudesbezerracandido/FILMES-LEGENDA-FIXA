@@ -2,6 +2,13 @@
 
 
 
+<item>
+<title>[COLOR silver][B] BRADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:99f3db2ddb83d3fe5071c293cc9bd341593f417c</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/81wJIqjtfaZgEubzDoX0I0nGhgN.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um filho que não queria mais ter nada a ver com o pai é forçado a ajudá-lo a administrar o rancho da família depois que ele fraturou alguns ossos. Os dois se unem para treinar um cavalo recalcitrante e levá-lo a vencer uma competição de cross-country, mas ao mesmo tempo tentam dissolver aquele caroço de raiva, hostilidade, ressentimento, que os impediu de ficarem juntos por tanto tempo. É uma difícil pista de obstáculos pela qual o cavalo deve passar, mas também o que os dois devem enfrentar para reconstruir o amor e a proximidade que perderam. Um treinador de cavalos, por quem o jovem se apaixona, irá ajudá-los a se curar de sua dor e caminhar juntos no íngreme caminho do perdão.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] EO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
