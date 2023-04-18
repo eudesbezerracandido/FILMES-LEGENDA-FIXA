@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] BLOSSOM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4a56f6e08a797f09b908112ee2f36dc2c4407c6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tCsyDbaQowSrCSRNCrDQmRUFGmP.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Enquanto luta contra a depressão, Clarisse é voluntária em um abrigo para mulheres e faz amizade com uma sobrevivente de violência doméstica, apenas para descobrir que há mais na jovem do que ela imagina.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] BRADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:99f3db2ddb83d3fe5071c293cc9bd341593f417c</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/81wJIqjtfaZgEubzDoX0I0nGhgN.jpg</thumbnail>
