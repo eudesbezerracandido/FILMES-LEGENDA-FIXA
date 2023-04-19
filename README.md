@@ -1,7 +1,13 @@
 # FILMES-LEGENDA-FIXA
 
 
-
+<item>
+<title>[COLOR silver][B] QUEBRANDO CORRENTES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E8129D59804C3AA65568F0D7DDF56322C2955046</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/su5e95O96dVIcMMRxfBxoEFdfqw.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Após perder seu pai e presenciar cenas horríveis em seu trabalho como policial, Jonathan sofre ainda mais com a morte de seu primeiro filho. Deprimido, tomado pela raiva e sugado pelo alcoolismo, ele corre o risco de perder seu cargo na polícia e de ser abandonado por sua esposa e filha. É então que Jonathan se volta para Deus, em busca de uma ajuda que pode mudar sua vida para sempre.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] CRIMSON POINT [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
