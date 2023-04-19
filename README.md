@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] CRIMSON POINT [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d25c53706008c065772b47b1cd9e24145120614</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4a6w6TJpzLQpjMPpDiIFR2ZdFec.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois de cumprir 20 anos de prisão pelo assassinato de sua filha, crime pelo qual foi preso injustamente, Frank retorna à sua cidade natal no sertão. Velhas feridas e rumores do passado ressurgem e o assombram enquanto ele tenta descobrir quem realmente a matou.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] BLOSSOM [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e4a56f6e08a797f09b908112ee2f36dc2c4407c6</link>
