@@ -1,6 +1,16 @@
 # FILMES-LEGENDA-FIXA
 
 
+
+
+<item>
+<title>[COLOR silver][B] EXPLOITED [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4C7EB6455AFC07C10F599C1ABDC74D0E17A81241</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4fuyUJCQkCGCgW6Zs3M8vxfr9F0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Quando Brian entra em seu dormitório, ele descobre um pen drive que inclui arquivos de um modelo de webcam interagindo com clientes. Mas a última sessão termina no que pode ser um assassinato. Ele fica obcecado em desvendar a história, mas sua busca se complica quando ele se apaixona por seu colega de quarto, que já está conquistado.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] QUEBRANDO CORRENTES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E8129D59804C3AA65568F0D7DDF56322C2955046</link>
