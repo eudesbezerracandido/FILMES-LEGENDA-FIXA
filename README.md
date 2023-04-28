@@ -1,7 +1,13 @@
 # FILMES-LEGENDA-FIXA
 
 
-
+<item>
+<title>[COLOR silver][B] DOUBLE CROSSES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B065749B3087739F4F59E59BEF7CA986E901D9E2</link>
+<thumbnail>https://canvas.tubitv.com/bc588126-a917-4ca9-ac42-502591d9501d/fGLOXd?w=408&h=583</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um par de primos herda uma conexão de codeína de Detroit depois que seu OG é misteriosamente assassinado.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] EXPLOITED [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
