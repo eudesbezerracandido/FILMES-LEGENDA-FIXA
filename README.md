@@ -2,6 +2,14 @@
 
 
 <item>
+<title>[COLOR silver][B] BDE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D7A096B1963A94DFD610F15BEA8FBEF6267BC6A6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ofWJ1UiUFJncIGBV2E9f9CGRFwk.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um grupo de amigos que se conheceu nos anos 2000, quando eram presidentes do BDE do Nantes Institute of Business, gostaria de se sentir novamente como os reis da festa durante o Bioman anual.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DOUBLE CROSSES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B065749B3087739F4F59E59BEF7CA986E901D9E2</link>
 <thumbnail>https://canvas.tubitv.com/bc588126-a917-4ca9-ac42-502591d9501d/fGLOXd?w=408&h=583</thumbnail>
