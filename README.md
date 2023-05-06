@@ -1,6 +1,16 @@
 # FILMES-LEGENDA-FIXA
 
 
+
+
+<item>
+<title>[COLOR silver][B] STOMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2BF438297B16BD86D17A10D11DDA65DA1DA62A6C</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/Apv4kyuMwMfbePyRyjDsVw1wiK0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O filme segue uma jornada emocionalmente angustiante vivida pelo jovem fotógrafo gay Alex, depois que ele é diagnosticado com câncer peritoneal. Abandonado por seu irmão e seu amante intermitente, Alex é forçado a enfrentar sua mortalidade e a perda de sua identidade sexual por pura resiliência. Uma história devastadora, mas esperançosa, de sobrevivência e determinação.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] BDE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D7A096B1963A94DFD610F15BEA8FBEF6267BC6A6</link>
