@@ -2,6 +2,13 @@
 
 
 
+<item>
+<title>[COLOR silver][B] 80 FOR BRADY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6D7FC95A1B99FEAE8DCA426E71ED62F8A48B8788</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/sZBOc7sXmK618zujlxaiyLTq2e0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um quarteto de melhores amigas idosas decide viver a vida ao máximo fazendo uma viagem louca ao Super Bowl 51 para ver seu herói Tom Brady jogar. O Arcanjo Miguel vem à Terra e fará de tudo para acabar com esta profecia do mal.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] STOMA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
