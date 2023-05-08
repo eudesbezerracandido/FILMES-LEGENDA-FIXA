@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] RUNNING THE BASES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FCBB3E54B2A17F4E044AF27B5B41280C5F16B055</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/66AnX6bSsQqcVyWqrUa9416kpEh.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Quando um treinador de beisebol de uma pequena cidade recebe a oferta de uma vida inteira de uma escola secundária 6A maior, ele desenraiza sua família e deixa o único lar que já conheceu. Mas como um homem de fé, ele logo enfrenta extrema oposição aos seus métodos de treinamento por parte do superintendente da escola.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] 80 FOR BRADY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6D7FC95A1B99FEAE8DCA426E71ED62F8A48B8788</link>
