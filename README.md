@@ -1,6 +1,15 @@
 # FILMES-LEGENDA-FIXA
 
 
+
+<item>
+<title>[COLOR silver][B] RAPTORS ATTACK [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E437B57C9C953CB9F34656D30675DAC68823005F</link>
+<thumbnail>https://i.ytimg.com/vi/ColF353IJ-8/maxresdefault.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>conta a história de Zhang Zilong e do cego Li Wenhui, que cresceu em um orfanato desde a infância. Zhang Zilong era profundamente amado pelo treinador de artes marciais Xu Jinyang por causa de seu extraordinário talento em artes marciais. Ele recomendou Zilong a seu mentor, o treinador Dai Yuhai, e esperava que seu mentor pudesse treinar Zilong para se tornar uma geração de campeões de boxe; Li Wenhui também se tornou um excelente massoterapeuta da MTC por meio de muito trabalho. Diante de vários contratempos na vida, Zilong e Wenhui se apoiaram e não se curvaram ao destino. No final, Zhang Zilong se destacou e conquistou o cinturão de ouro do campeão internacional de boxe, cumpriu sua promessa e colheu seu amor.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] INTUIÇÃO 2 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2C45531B63FD87AA7B6123E1EB6E5052068EDB0C</link>
