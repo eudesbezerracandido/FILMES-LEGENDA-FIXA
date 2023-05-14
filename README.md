@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] A PICTURE OF HER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F56274C665AA5A35DE5F90A4D948D79B3D4AF6B1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iviFpnmCu0qs6VzH9H0WlhX4aja.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Beth se torna o assunto da capa de uma revista premiada e sai em busca do fotógrafo que tirou sua foto.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ANAK RIMAU THE MOVIE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CF54E8112D20E64FC57A76EFC72E680E48DB8D2D</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/mQez698HIU1XbciQA7VzpoTBKuF.jpg</thumbnail>
