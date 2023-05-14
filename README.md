@@ -1,6 +1,13 @@
 # FILMES-LEGENDA-FIXA
 
 
+<item>
+<title>[COLOR silver][B] DARKER SHADES OF SUMMER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8F933A67BCBF5B27A129E92D09FB9A7ECFF76F10</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/s50eC3y60cEqQ7nS9UWWsvonr4X.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em um retiro de swingers, um casal passará pelo teste final no tenso thriller erótico.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] DETECTIVE ESPECTOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
