@@ -1,6 +1,13 @@
 # FILMES-LEGENDA-FIXA
 
 
+<item>
+<title>[COLOR silver][B] CAFÉ MIDNIGHT [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BE6B5918FF09EE6EE01C36CDE3137526A4F07E44</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1Epg5WL60jgquRz1N7EmSP9LjCQ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>: Yoon, a noiva, espera por seu noivo Tae-young no dia do casamento, mas ele não aparece sem dizer uma palavra. Preocupada e furiosa, Yoon sai o dia todo procurando por ele e na calada da noite chega a um lugar estranho chamado ‘Café Meia-Noite’, que abre da meia-noite até o sol nascer. Aqui, Yoon finalmente encontra Tae-young, mas algo não parece certo. Ele parece alguns anos mais jovem do que agora e nem a reconhece. Ela será capaz de encontrar seu noivo do presente neste caos?</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] A PICTURE OF HER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
