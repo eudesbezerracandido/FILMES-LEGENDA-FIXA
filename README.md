@@ -1,6 +1,13 @@
 # FILMES-LEGENDA-FIXA
 
 
+<item>
+<title>[COLOR silver][B] NEVER ALONE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96C6120C8566D665BB44434BB49D9576B6A3BE67</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/h9kUwcBOINMcscEpTyArPAd9Af2.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando um romance do ensino médio termina devido aos bloqueios da Covid, um novo professor usa a música para levantar o ânimo e manter o amor vivo, mesmo nos momentos mais sombrios.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] RAPTORS ATTACK [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
