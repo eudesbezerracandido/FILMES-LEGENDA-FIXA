@@ -1,6 +1,15 @@
 # FILMES-LEGENDA-FIXA
 
 
+
+<item>
+<title>[COLOR silver][B] ANAK RIMAU THE MOVIE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CF54E8112D20E64FC57A76EFC72E680E48DB8D2D</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/mQez698HIU1XbciQA7VzpoTBKuF.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>: Um grupo de jogadores de futebol de diferentes origens derrama sangue, suor e lágrimas enquanto treina duro para entrar na seleção nacional. Ao longo do caminho, eles aprendem muitas lições úteis, como trabalho em equipe, valores familiares, amizade verdadeira e o espírito de nunca desistir.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] DARKER SHADES OF SUMMER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8F933A67BCBF5B27A129E92D09FB9A7ECFF76F10</link>
