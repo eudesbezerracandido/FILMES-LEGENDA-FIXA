@@ -2,6 +2,13 @@
 
 
 
+<item>
+<title>[COLOR silver][B] DETECTIVE ESPECTOR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27B25F090052338BBEEE59A3FF95DA0A34328E85</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/oZa50PhM9IqCfcRLoAmFXmMHXfq.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O detetive Price (George Everett-Button) e o detetive inspetor Newman (Toby Haycock) se unem para defender a cidade da corrupção.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] VIVER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
