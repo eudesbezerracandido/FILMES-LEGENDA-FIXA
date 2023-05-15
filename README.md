@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] UMA PAIXÃO INESPERADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E87E58F9BEDEB0BB232D40179076813EC8DD36F6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/o2e66XBZRq5imsJ8gwKvJBltCyg.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Enquanto luta para salvar a fazenda de sua família, uma jovem professora do ensino médio se apaixona por um corretor imobiliário. Mas as coisas começas a ficar complicadas quando ele é designado a tomar a fazenda para desenvolver um novo empreendimento.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CRÔNICAS DE UMA TORMENTA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E2CAC40C8612648A3A495048CD58C4EE922DE3B0</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/hAifrmtS7GWF1vJC6HhgoFDb8Va.jpg</thumbnail>
