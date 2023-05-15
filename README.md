@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] A BROTHER'S TURMOIL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9EF51C5641827420A865456E869F759B662136DC</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/At8pqlQ7RSqZMvsatZk9Va0w0kn.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O que acontece quando um policial em preto e branco percebe que existem diferentes tons de cinza durante as turbulências da vida!</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] UMA PAIXÃO INESPERADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E87E58F9BEDEB0BB232D40179076813EC8DD36F6</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/o2e66XBZRq5imsJ8gwKvJBltCyg.jpg</thumbnail>
