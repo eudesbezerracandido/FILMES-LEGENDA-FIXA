@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] BULLY HIGH [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51EB19647B690EF1D004BC9C14E12D5AACF0869E</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/2GUzE5J4WUCQvV5YZBHnEeH81E8.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um drama sobre amadurecimento que aborda algumas das questões mais prevalentes de hoje, incluindo preconceitos religiosos, orientação sexual e bullying.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] UMA PAIXÃO INESPERADA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E87E58F9BEDEB0BB232D40179076813EC8DD36F6</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/o2e66XBZRq5imsJ8gwKvJBltCyg.jpg</thumbnail>
