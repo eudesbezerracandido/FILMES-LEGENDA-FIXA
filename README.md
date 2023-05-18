@@ -1,6 +1,13 @@
 # FILMES-LEGENDA-FIXA
 
 
+<item>
+<title>[COLOR silver][B] DANCE FOR ME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6A1EBB765E41F70137179FD0B7E00F7D102DDF12</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kaPCduenjCUhXybCJZorwonzwOy.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois que a dançarina exótica Isis se apaixona pelo promissor político Osiris, um bando de criminosos de seu passado ameaça o futuro do casal juntos.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] ENYS MEN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
