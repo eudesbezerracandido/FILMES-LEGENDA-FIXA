@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] BO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:875957C3ACE2561AA158E1967687B53B6AFD2737</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/9ExTxZzgVgTny40zfkxetjViz1J.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Quando a volátil Bo viaja para a Geórgia para visitar o túmulo de seu pai, um conhecido trompetista, ela encontra seu ex-amigo de infância, Levan. Em busca de suas raízes e de uma melhor compreensão de seu pai, ela decide pegar carona no caminhão de Levan. Apesar da diferença de idade, eles cedem gentilmente ao amor que sentem um pelo outro. A melancólica trombeta do pai de Bo acompanha sua jornada pela paisagem georgiana de tirar o fôlego. No final, eles ousam confiar um no outro a ponto de Bo e Levan compartilharem seus segredos mais sombrios.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ENYS MEN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12484CEB2541E1CE6C8B992D95B5EC25CF683B30</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/jqAD5ysjzVI88qQ7wpsaYdGdDtR.jpg</thumbnail>
