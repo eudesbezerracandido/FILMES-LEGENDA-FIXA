@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] ENYS MEN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12484CEB2541E1CE6C8B992D95B5EC25CF683B30</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jqAD5ysjzVI88qQ7wpsaYdGdDtR.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma voluntária da vida selvagem em uma ilha desabitada na costa britânica mergulha em uma loucura aterrorizante que desafia sua compreensão da realidade e a empurra para um pesadelo vivo.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] 48 HORAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66149D2B8D7DAC9E2B4EE7F08A2AE901A4E67BBA</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/pyn5lrdFJDFQ55dVbNQMx130Wzr.jpg</thumbnail>
