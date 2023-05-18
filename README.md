@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] 48 HORAS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66149D2B8D7DAC9E2B4EE7F08A2AE901A4E67BBA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pyn5lrdFJDFQ55dVbNQMx130Wzr.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Depois de ser enganado em uma entrega ilegal e quase morto por um chefe de gângster, Hien levou sua esposa e filho para se esconder na casa de um amigo na área do Delta do Mekong. O chefe sinistro, no entanto, está atrás deles, então Hien, sua esposa, filho e até mesmo a família de seu amigo são arrastados em uma perseguição mortal de gato e rato de 48 horas que os leva a uma verdade ainda mais surpreendente.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A BROTHER'S TURMOIL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9EF51C5641827420A865456E869F759B662136DC</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/At8pqlQ7RSqZMvsatZk9Va0w0kn.jpg</thumbnail>
