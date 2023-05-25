@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] AUTOBIOGRAPHY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:49AD412A99B580C8193FA13B8912487B1DD1387B</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kt25dfq7Cc6vEjG8AH46YbhZoPC.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>: Com seu pai na prisão e seu irmão no exterior a trabalho, o jovem Rakib trabalha como governanta solitária em uma mansão vazia pertencente a Purna, um general aposentado cuja família o clã de Rakib serviu por séculos em uma cidade rural da Indonésia. Depois que Purna volta para casa para iniciar sua campanha eleitoral para prefeito, Rakib se relaciona com o homem mais velho, que se torna um mentor próximo e uma figura paterna, e encontra sua vocação como assistente de Purna no trabalho e na vida. Quando o pôster eleitoral de Purna é encontrado vandalizado um dia, Rakib não hesita em rastrear o culpado, dando início a uma escalada de violência.</info>
+</item> 
+
+<item>
 <title>[COLOR silver][B] THE BRINKS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:63C594C329D2394E70A2EDEFC522F22596A38DE7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/vHJVAZKm4y0C7CQQMZ8rpAlsZga.jpg</thumbnail>
