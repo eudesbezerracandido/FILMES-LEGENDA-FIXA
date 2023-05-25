@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] VACATIOR: HOME NIGHTMARE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32EA1D330A9F5C41B5813D017C97B3420A95BAB7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/o7w9tDt8kRsI4QvCrjuMnrkRMgp.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Quando uma mulher é atacada em sua casa alugada, a obscura equipe de limpeza da empresa intervém para ajudá-la a juntar os cacos. No entanto, ela logo descobre que o chefe da equipe pode estar limpando seus próprios crimes e tomará todas as medidas para silenciá-la.</info>
+</item> 
+
+<item>
 <title>[COLOR silver][B] BO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:875957C3ACE2561AA158E1967687B53B6AFD2737</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9ExTxZzgVgTny40zfkxetjViz1J.jpg</thumbnail>
