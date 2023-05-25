@@ -10,6 +10,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] THE BRINKS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:63C594C329D2394E70A2EDEFC522F22596A38DE7</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/vHJVAZKm4y0C7CQQMZ8rpAlsZga.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um detetive se esconde na tentativa de encontrar qualquer coisa que possa derrubar os chefões do tráfico mais notórios de Houston, mas o que ele encontra pode ser mais do que esperava.</info>
+</item> 
+
+<item>
 <title>[COLOR silver][B] VACATIOR: HOME NIGHTMARE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32EA1D330A9F5C41B5813D017C97B3420A95BAB7</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/o7w9tDt8kRsI4QvCrjuMnrkRMgp.jpg</thumbnail>
