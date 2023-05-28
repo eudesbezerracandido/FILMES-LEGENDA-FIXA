@@ -2,6 +2,14 @@
 
 
 <item>
+<title>[COLOR silver][B] A BRUXA: PARTE 1 SUBVERSÃO LEGENDADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>https://archive.org/download/a-bruxa-subversao/A%20BRUXA-SUBVERS%C3%83O.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4i2wo2ja5g2PmUxWa1a2eYIboZf.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Ja-yoon perde suas memórias depois de escapar sozinha das instalações onde ocorreu um incidente. Ela cresceu e torna-se uma estudante brilhante, aos cuidados de um casal de idosos que a acolheu e criou sem saber a sua idade ou nome. Desde o incidente que o Dr.ª Paik e o Sr. Choi, andavam à sua procura.</info>
+</item> 
+
+<item>
 <title>[COLOR silver][B] DANCE FOR ME [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6A1EBB765E41F70137179FD0B7E00F7D102DDF12</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/kaPCduenjCUhXybCJZorwonzwOy.jpg</thumbnail>
