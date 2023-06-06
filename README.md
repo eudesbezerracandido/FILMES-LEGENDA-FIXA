@@ -2,6 +2,14 @@
 
 
 <item>
+<title>[COLOR silver][B] PAINT [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5676C5395688885D988DD135607B8AEE907A68EA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jZ1PhCyXEySYR7f9q52KYb62Bwp.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Carl Nargle, o pintor nº 1 da televisão pública de Vermont, está convencido de que tem tudo: um permanente de assinatura, van personalizada e fãs pendurados em cada golpe… até que um artista mais jovem e melhor rouba tudo (e todos) que Carl ama.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] A BRUXA: PARTE 1 SUBVERSÃO LEGENDADO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>https://archive.org/download/a-bruxa-subversao/A%20BRUXA-SUBVERS%C3%83O.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4i2wo2ja5g2PmUxWa1a2eYIboZf.jpg</thumbnail>
