@@ -1,6 +1,15 @@
 # FILMES-LEGENDA-FIXA
 
 
+
+<item>
+<title>[COLOR silver][B] ORGAN TRAIL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5AEF6A23F73C27A05DB15B774868C3066B27D5FF</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/s9nwiVMOVvnS2Jt6hdy7UHoFSD0.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma jovem Abigale Archer é deixada sem amigos e sozinha em um inverno brutal em Montana durante a década de 1870 – lutando pela sobrevivência e para recuperar sua única posse terrena, o cavalo de sua família, de uma gangue de bandidos sedentos de sangue.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] PAINT [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5676C5395688885D988DD135607B8AEE907A68EA</link>
