@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] O DEMÔNIO DOS MARES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e59b72a29b123c5cb73a8eb19a84932d0300354d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ifX2PUkP1NmmFv4hhFrcgCvDCbf.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>O petroleiro Paul Sturges leva sua família de férias para a Bahia Azul. Lá, ele percebe que a cidade costeira desmoronou misteriosamente. Paul começa o dia com uma visita de rotina, com sua família, para inspecionar uma plataforma de petróleo nas proximidades. A situação se torna um pesadelo quando, das profundezas do oceano, um tubarão gigante surge: o demônio negro. Sob a ameaça constante do tubarão primitivo, Paul terá que encontrar um jeito de levar sua família de volta para a costa de forma segura.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ORGAN TRAIL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5AEF6A23F73C27A05DB15B774868C3066B27D5FF</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/s9nwiVMOVvnS2Jt6hdy7UHoFSD0.jpg</thumbnail>
