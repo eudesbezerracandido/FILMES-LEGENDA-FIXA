@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] BLACK LOTUS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:78BB3A681475918BECF8AE2368153CE63986DF05</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tIFq7whMaQaduV990viTHv12YlY.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um ex-agente das forças especiais trava uma guerra de um homem só pelas ruas de Amsterdã para resgatar a filha de seu amigo do sindicato do crime local.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] O DEMÔNIO DOS MARES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e59b72a29b123c5cb73a8eb19a84932d0300354d$nome=LEGENDADO</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2af2bcccdb239b0e0ec4c41baff97f042fdc0fb4$nome=SERVIDOR WEB</link>
