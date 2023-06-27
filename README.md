@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] PADRE PIO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8E865C876A03747D9D3AAD9ECE68B907D26393FB</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hRrCrLtbhIPelONxL8MEFif1JZC.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Nascido Francesco Forgione no sul da Itália no final do século XIX, São Padre Pio despertou devoção e controvérsia ao longo de sua vida. Tornou-se famoso no mundo católico por apresentar estigmas, ou chagas de crucificação correspondentes ás do corpo de Jesus Cristo, antes de se tornar símbolo de esperança para o povo italiano durante o difícil período do entre-guerras. Morreu em 1968 aos 81 anos, foi beatificado pelo Papa João Paulo II em 1999 e canonizado em 2002.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] BLACK LOTUS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:78BB3A681475918BECF8AE2368153CE63986DF05</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/tIFq7whMaQaduV990viTHv12YlY.jpg</thumbnail>
