@@ -2,6 +2,13 @@
 
 
 
+<item>
+<title>[COLOR silver][B] O PUNHO DO CONDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:886E57B9EC7D71422C9D7C03B04DC32EEA822AE7</link>
+<thumbnail></thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info></info>
+</item>
 
 <item>
 <title>[COLOR silver][B] SCARLETT CROSS AGENTS OF DEATH [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
