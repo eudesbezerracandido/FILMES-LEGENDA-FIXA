@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] HAWAII [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30386FB43241A16E1BCA4F8AD054D3BC7A47D11D</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rrbeftRF32lGWxcm9rYDsIZQTGo.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> 13 de janeiro de 2018. 8h08. O Havaí está em estado de alerta: mísseis balísticos acabam de ser lançados na direção da ilha, faltam apenas alguns minutos para encontrar um abrigo. Como todos os anos, um grupo de amigos veio passar uma semana de férias no hotel de um de seus amigos, que partiu para morar no Havaí. Enquanto eles pensam que estão vivendo seus últimos momentos, anos de palavras não ditas voltam e degeneram em um ajuste de contas. Felizmente para eles, é um alarme falso. Infelizmente, eles ainda têm oito dias de férias para passar juntos.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] GASLIGHT [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:99B266AA90B382FC4AC5FE6F98C33AEA495CEE1A</link>
