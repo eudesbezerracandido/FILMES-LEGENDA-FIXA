@@ -4,6 +4,14 @@
 
 
 <item>
+<title>[COLOR silver][B] SCARLETT CROSS AGENTS OF DEATH [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6F42E08ACBD1D7554EAFBD8149FFDE1051DAD2A9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qNI32EEgsz01P7xIE4891rU88iN.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Uma antologia de contos distorcidos envolvendo quatro assassinas mortais e a misteriosa Scarlett Cross. Tendo sofrido um acidente traumático, Scarlett deve descobrir os segredos de seu passado e o destino violento e brutal que a espera.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] HAWAII [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30386FB43241A16E1BCA4F8AD054D3BC7A47D11D</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/rrbeftRF32lGWxcm9rYDsIZQTGo.jpg</thumbnail>
