@@ -1,6 +1,47 @@
 # FILMES-LEGENDA-FIXA
 
 
+
+<item>
+<title>[COLOR silver][B] HAIR DRIVER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ECD1127F052A1F9F7D8947E08D4A30E2E343C24F</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iWjKAPRAr1Lez6hkL0lbslwu2s7.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Após a morte de seu pai, Aman decidiu se tornar um motorista ilegal de e-hailing. Ao dirigir, Aman tenta entender a vida agitada de Kuala Lumpur.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ASSASSIN CLUB [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F5BA4D5CD7E6E3CAFA6ACEDE4D14104E0EF3E090</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/y2d2SBqK33mGOG2CqAYMo3YbWE4.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um assassino recebe um contrato para matar sete pessoas em todo o mundo apenas para descobrir que os alvos também são assassinos que foram contratados para matá-lo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] THE OUTWATERS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:608990109D9E81F0886B7CCEF787B015F182672B</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yBN3HGVjIIZtHlSX8t4H51cGDKd.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Quatro viajantes encontram fenômenos ameaçadores enquanto acampam em um trecho remoto do deserto de Mojave.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] JEZABEL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A2B8F079CD469370031CE25BFE1D246646FB376E</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8hnYjV3dsSvEJoYIq3G71WQKCOS.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Quatro estudantes de classe alta do ensino médio que vivem despreocupados entre drogas, jogos e amor até que uma das meninas, Eli, é brutalmente morta. Dezesseis anos depois, a lembrança do crime atormenta Alain, outro integrante do grupo.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] ANATAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:60DC26DF16FEA0B1A4431C3E0AC71CB04D56C2EB</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kj0YrQaywQcvpEpxNvE2joexx5g.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>: Depois de causar o colapso de seu próprio planeta, o povo Anatar de alienígenas humanóides que evoluíram de patos, está em busca de um novo corpo celeste para chamar de ninho. Durante suas andanças no espaço, eles pousam em Pandono, um lugar onde os seres vivos e a natureza encontraram seu estranho equilíbrio. Amor, guerra, naves espaciais e patos espaciais são os ingredientes deste grotesco conto de fadas moderno sobre aceitar o que é diferente de nós.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] JUANG [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D83B8DB922F0DD288754852E22F2A735FC9B066B</link>
