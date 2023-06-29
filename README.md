@@ -1,13 +1,20 @@
 # FILMES-LEGENDA-FIXA
 
 
+<item>
+<title>[COLOR silver][B] JUANG [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:D83B8DB922F0DD288754852E22F2A735FC9B066B</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/qtNlKI2qlPRqOuxx1qSCn24Hhyv.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Em 18 de março de 2020, a Malásia entrou em um lockdown nacional sem precedentes. Toda a Malásia pareceu parar da noite para o dia. Mas por trás do país está um grupo de heróis anônimos que carregam a missão de combater a pandemia por seu povo. Intercalando cinco histórias, este filme traz a mais comovente história antiepidêmica.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] O PUNHO DO CONDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:886E57B9EC7D71422C9D7C03B04DC32EEA822AE7</link>
-<thumbnail></thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/original/odpaGY2lG32NG4GL2PuGPt7UUTy.jpg</thumbnail>
 <fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info></info>
+<info>Após a queda do império para conquistadores invasores, os incas do século 16 rapidamente esconderam um manual sagrado contendo os segredos por trás de sua técnica de luta mortal. Mas depois de séculos de proteção cuidadosa, o manual corre novamente o risco de cair em mãos erradas, deixando seu guardião legítimo para lutar contra os maiores assassinos do mundo para proteger os segredos antigos dentro dele.</info>
 </item>
 
 <item>
