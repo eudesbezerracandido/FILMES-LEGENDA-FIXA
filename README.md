@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] CREDDIMI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B5D942A8DA7F09BEAB5B504A110C6240D56BF666</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/7TfzTAg4wdlFF1ko2JNIrZ0w8Y3.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Vittoria mora no subúrbio com seu filho Salvatore, um grande fã de super-heróis. Salvatore molda a dura realidade que o cerca imaginando-se como o protagonista das aventuras de Astroman, o ídolo de sua websérie favorita.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] HAIR DRIVER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ECD1127F052A1F9F7D8947E08D4A30E2E343C24F</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/iWjKAPRAr1Lez6hkL0lbslwu2s7.jpg</thumbnail>
