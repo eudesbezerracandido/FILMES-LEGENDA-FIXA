@@ -1,6 +1,13 @@
 # FILMES-LEGENDA-FIXA
 
 
+<item>
+<title>[COLOR silver][B] 97 MINUTES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0B7AAB2A38207505B43BE6692ECC8DF59E74E0D5</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eYGyR8xF8emNs9AJAJSyLXu56kR.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Depois de causar o colapso de seu próprio planeta, o povo Anatar de alienígenas humanóides que evoluíram de patos, está em busca de um novo corpo celeste para chamar de ninho. Durante suas andanças no espaço, eles pousam em Pandono, um lugar onde os seres vivos e a natureza encontraram seu estranho equilíbrio. Amor, guerra, naves espaciais e patos espaciais são os ingredientes deste grotesco conto de fadas moderno sobre aceitar o que é diferente de nós.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] ARE YOU THERE GOD? IT'ME, MARGARET [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
