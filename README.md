@@ -1,6 +1,23 @@
 # FILMES-LEGENDA-FIXA
 
 
+
+<item>
+<title>[COLOR silver][B] M4M4 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35CC682477A22805C8861EBD3111A8532968D592</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6baODauZDDTNnZpgwp5bdm36lET.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Quando sua filha é estuprada e assassinada, uma viúva vingativa torna sua missão rastrear o estuprador e assassino de sua filha. Sua investigação a leva a um grupo de homens responsáveis pelo crime. Serão eles levados à justiça?</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] THE MASK OF SHURA OF FIRE CLOUD [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:FC8133CD28A84E97859A0692A90517C0CD4315A1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/j3z4HOt3oaP0JEwejp01rddSJ7z.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um mestre chamado Fire Cloud é um cara mau, ele quer lutar contra as pessoas, mas um herói da China não gosta e o impede. As pessoas estão salvas novamente.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] 97 MINUTES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0B7AAB2A38207505B43BE6692ECC8DF59E74E0D5</link>
