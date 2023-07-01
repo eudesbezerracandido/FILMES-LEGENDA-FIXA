@@ -1,6 +1,13 @@
 # FILMES-LEGENDA-FIXA
 
 
+<item>
+<title>[COLOR silver][B] NIAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ED609951231B9ACCAD90A782EFE9CCDD452CB9D</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kw9vxdkBRYsuIwie4XL7N2SMR2h.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>As pessoas na vila de Hujiazhuang se concentram cada vez menos no Festival da Primavera. O menino da dança do leão, Luo Chuan, sonha em levar adiante a cultura e as habilidades da dança do leão, mas muitas vezes causa grande tumulto onde quer que vá. Ele é considerado um “elemento perigoso” pelos aldeões e pelo chefe Hu. O Monstro Nian, chega ao mundo humano por acidente e leva embora a cabeça de leão, herança da aldeia. Enquanto tenta recuperar a cabeça do leão, Luo Chuan conhece Axi, o Rato Imortal, que vem ao mundo mortal para capturar o Monstro Nian. Eles gradualmente percebem que Nian não é nada assustador e pode fazer amizade com humanos, mas Hu trama contra Nian depois de ser possuído pelo Demônio Devorador de Espíritos. No final, Luo Chuan e Axi, junto com outros aldeões, derrotam o Demônio Devorador de Espíritos e despertam Hu.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] PRECIOUS IS NIGHT [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
