@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] ARE YOU THERE GOD? IT'ME, MARGARET [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7C917C54A9142B68BE508F9192B3399EE0320DF8</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/yb6UB4WC3znlwU0L4AqMnjR9G9S.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Quando sua família se muda da cidade para os subúrbios, Margaret, de 11 anos, navega entre novos amigos, sentimentos e o início da adolescência.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DARK NATURE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E22A6A83F118AEF2AC1F8CA73AF4F7C967BF2C54</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/4Jm81QWo7moA0woO5VsdjFO5wGe.jpg</thumbnail>
