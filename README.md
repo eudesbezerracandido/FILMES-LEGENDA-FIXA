@@ -3,6 +3,22 @@
 
 
 <item>
+<title>[COLOR silver][B] PRECIOUS IS NIGHT [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:75827BA55B13C0FBFAA65EB0118C264FD49416CA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/etARx8lHfoeVy8HTYCfCvxexel5.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O filme segue um médico de 30 e poucos anos que é pego em uma teia de engano, sexo e mentiras. O drama do assassinato gira em torno do médico fazendo visitas domiciliares a uma misteriosa família rica.</info>
+</item>
+
+<item>
+<title>[COLOR silver][B] THE UNDERGROUD WAR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AC6B21234C6E24D017C2AA43F586D71FC25728DB</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nM9SuoTfl7Wg4j0HopKFsUG75c2.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> É 2248 e o destino da humanidade está em risco. A superfície da Terra tornou-se inabitável e uma terrível doença ameaça a existência do que resta da humanidade, que foi forçado a viver no subsolo. Há esperança para a humanidade?</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] CREDDIMI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:B5D942A8DA7F09BEAB5B504A110C6240D56BF666</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/7TfzTAg4wdlFF1ko2JNIrZ0w8Y3.jpg</thumbnail>
