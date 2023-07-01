@@ -2,6 +2,13 @@
 
 
 
+<item>
+<title>[COLOR silver][B] DARK NATURE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E22A6A83F118AEF2AC1F8CA73AF4F7C967BF2C54</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/4Jm81QWo7moA0woO5VsdjFO5wGe.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Enquanto se recupera de um relacionamento abusivo, Joy se junta ao grupo de terapia de sua amiga em um retiro isolado nas montanhas. Liderados por um médico com métodos experimentais, o grupo logo é forçado a enfrentar uma entidade monstruosa.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] DIABOLIK - GINKO ALI'ATTACCO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
