@@ -1,6 +1,16 @@
 # FILMES-LEGENDA-FIXA
 
 
+
+
+<item>
+<title>[COLOR silver][B] DIABOLIK - GINKO ALI'ATTACCO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:E463EFBDA28805F58E3A77BE71396D71BAB48909</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8QVbWBv94BAT9u1q9uJccwOxMzt.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Diabolik quase é pego na última armadilha do inspetor Ginko, deixando sua parceira no crime Eva Kant para trás na fuga. Furiosa, Eva oferece a Ginko sua ajuda para capturar o Rei do Terror, mas o primeiro tem que enfrentar o retorno de uma antiga paixão dele.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] NIAN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ED609951231B9ACCAD90A782EFE9CCDD452CB9D</link>
