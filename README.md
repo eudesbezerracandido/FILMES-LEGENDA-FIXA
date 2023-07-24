@@ -3,6 +3,14 @@
 
 
 <item>
+<title>[COLOR silver][B] MOJAVE DIAMONDS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9388B5CB45E856ED34904A275399FDEE22E9B5AC</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/eauJLqzFy53KR86VNXnzz3wsD6w.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um ex-lutador de MMA e seus irmãos devem resgatar sua família sequestrada de um perigoso sindicato do crime depois que $ 50 milhões em diamantes ilegais são roubados.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] M4M4 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35CC682477A22805C8861EBD3111A8532968D592</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/6baODauZDDTNnZpgwp5bdm36lET.jpg</thumbnail>
