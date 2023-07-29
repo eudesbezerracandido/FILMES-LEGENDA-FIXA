@@ -1,6 +1,16 @@
 # FILMES-LEGENDA-FIXA
 
 
+
+
+<item>
+<title>[COLOR silver][B] HELLO' DARLIN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:128CC0AA2D1FC0FA565137B3C67D1F25AFCF5815</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dj5KGcfaz8LmSfNbd7aIqrwkAXh.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Les Dalton está em liberdade condicional após nove anos de prisão por assalto à mão armada, e agora todos querem saber o que aconteceu com o ouro desaparecido. Ele afirma que nunca existiu, mas ninguém acredita nele, incluindo o detetive aposentado que liderou a caçada original. Enquanto Dalton tenta construir uma nova vida em um mundo que ele não quer fazer parte dele, planos estão em andamento para forçá-lo a dizer a verdade – um movimento que acabará custando a vida de alguém.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] SOUND OF FREEDOM ( HDCAM ) LEGENDA FIXA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>https://archive.org/download/sound-of-freedom_20230727/Sound%20of%20Freedom.mp4</link>
