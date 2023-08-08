@@ -2,6 +2,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] A SOMBRA DO REINO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32ffd819b69321ae838a48bc305925d460fbcc75</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/aaNqRBvqw4kYzDAlmHoSdz1DSK2.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Se passa durante a era dos Três Reinos da China (anos 220 a 280). A história de um grande rei e seu povo, que será expulso de sua terra natal e desejará reivindicá-la. O rei, violento e ambicioso, de misteriosos métodos e motivos; seu general, um visionário que anseia por vencer a batalha final, mas precisa preparar seus planos em segredo; as mulheres do palácio, que lutam para encontrar a redenção em um mundo onde não têm lugar; e um plebeu chamado “Senhor de Todo o Mundo”, serão os personagens ao redor que transformam as forças inexoráveis dessa história.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] MEGATUBARÃO 2 LEGENDA FIXA PTBR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>https://archive.org/download/megatubarao-2/Megatubar%C3%A3o%202.mp4</link>
