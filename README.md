@@ -2,6 +2,14 @@
 
 
 <item>
+<title>[COLOR silver][B] DEUS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2890CE8850D8367F8F74928238F7365E14A25D9D</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zq9iHZTVNOXFT4SIzjpA7gfwsyZ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma misteriosa esfera negra é descoberta na órbita de Marte. O Aquiles é enviado para investigar. Depois que a tripulação de seis pessoas acorda de oito meses de hibernação, a Esfera está transmitindo uma única palavra em todos os idiomas da Terra já conhecidos – Deus.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] THE QUEEM OF GUNG FU 3 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5B5C0EE840BF51A51F1FC2BA91F93C35C2EF1045</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/kvUbggMw0HyrRMBhu3Z9Ti9Qh5A.jpg</thumbnail>
