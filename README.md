@@ -1,8 +1,13 @@
 # FILMES-LEGENDA-FIXA
 
 
-
-
+<item>
+<title>[COLOR silver][B] THE QUEEM OF GUNG FU 3 [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5B5C0EE840BF51A51F1FC2BA91F93C35C2EF1045</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/kvUbggMw0HyrRMBhu3Z9Ti9Qh5A.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A linda chefe do The Bund, Ying, decide encerrar sua carreira e viver uma vida pacífica. Mas as várias seitas da selva estão competindo pelo título de melhor artista marcial do mundo. Enquanto Ying partiu para sua cidade natal para comemorar seu aniversário, seu mestre foi assassinado. Para vingar a morte de seu mestre, ela retorna a Xangai com sua irmã mais nova e mata os bandidos, mas é falsamente acusada de matar seu mestre e destruir seus ancestrais. Como ela pode vingar a morte de seu mestre e punir o mal e promover o bem?</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] A SOMBRA DO REINO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
