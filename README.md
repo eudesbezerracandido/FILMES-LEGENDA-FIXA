@@ -3,8 +3,13 @@
 
 
 
-
-
+<item>
+<title>[COLOR silver][B] DRÁCULA - A ULTIMÁ VIAGEM DO DÉMETER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>https://archive.org/download/dracula_20230827/Dr%C3%A1cula%20A%20%C3%9Altima%20Viagem%20do%20Dem%C3%A9ter.mp4</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/pZaFdrYekwC9ITq4yWrkqEwCy3E.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A tripulação do navio mercante Demeter tenta sobreviver à viagem oceânica de Carpathia a Londres enquanto são perseguidos todas as noites por uma presença impiedosa a bordo do navio.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] DEUS [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
