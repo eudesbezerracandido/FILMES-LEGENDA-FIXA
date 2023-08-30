@@ -36,14 +36,6 @@
 </item>
 
 <item>
-<title>[COLOR silver][B] MEGATUBARÃO 2 LEGENDA FIXA PTBR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
-<link>https://archive.org/download/megatubarao-2/Megatubar%C3%A3o%202.mp4</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/iNvNBWO9i6U1F8NvUywTbVW1ylg.jpg</thumbnail>
-<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
-<info>Um mergulho exploratório nas profundezas do oceano de uma ousada equipe de pesquisa se transforma em caos quando uma operação de mineração malévola ameaça sua missão e os força a uma batalha de alto risco pela sobrevivência.</info>
-</item>
-
-<item>
 <title>[COLOR silver][B] HELLO' DARLIN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:128CC0AA2D1FC0FA565137B3C67D1F25AFCF5815</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/dj5KGcfaz8LmSfNbd7aIqrwkAXh.jpg</thumbnail>
