@@ -4,6 +4,14 @@
 
 
 <item>
+<title>[COLOR silver][B] SACRUM VINDICTAE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F6E77F7C899CFE094DFAEF7BF78BC78B596FCD4F</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/auyGypNbvHh4KpEVwmzI8ngaMzv.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>: A história gira em torno de Nathaniel Nucci, que deixa o exército quando sua esposa engravida na esperança de levar uma vida “normal”. Tudo está bem por 13 anos, até que sua esposa e filho são parte dos danos colaterais de um ataque fracassado à Máfia. Cego de raiva, Nathaniel se infiltra na organização mafiosa responsável pelo assassinato de sua família. Ele acaba se tornando um assassino contratado pelo chefe de uma das maiores famílias da máfia da Filadélfia, enquanto mantém sua identidade oculta.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] ESPIRITO DO MEDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2E10136CB55BE64C45CF6574A0DDE1310700CD03</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/v7htXVrfq9CXhlRXIVofuLUkc7M.jpg</thumbnail>
