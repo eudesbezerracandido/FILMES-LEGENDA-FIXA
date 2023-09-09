@@ -4,6 +4,14 @@
 
 
 <item>
+<title>[COLOR silver][B] ESPIRITO DO MEDO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2E10136CB55BE64C45CF6574A0DDE1310700CD03</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/v7htXVrfq9CXhlRXIVofuLUkc7M.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Tentando recuperar a memória, um homem deve fugir de uma presença demoníaca enquanto segue as pistas deixadas para descobrir seu passado.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] DRÁCULA - A ULTIMÁ VIAGEM DO DÉMETER [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>https://archive.org/download/dracula_20230827/Dr%C3%A1cula%20A%20%C3%9Altima%20Viagem%20do%20Dem%C3%A9ter.mp4</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/pZaFdrYekwC9ITq4yWrkqEwCy3E.jpg</thumbnail>
