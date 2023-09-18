@@ -4,6 +4,14 @@
 
 
 <item>
+<title>[COLOR silver][B] DEATH SHOT [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BF3BD77D83340286AA0A6669C74A6DFC6F150A5A</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/8JagLPH3wc2BDvsUkJfie3mEodN.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>A vida de um gângster aposentado é arruinada por visões violentas intrusivas, alucinações e flashbacks de seu passado, tudo isso acompanhado de uma trilha sonora incrivelmente sombria.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] SACRUM VINDICTAE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F6E77F7C899CFE094DFAEF7BF78BC78B596FCD4F</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/auyGypNbvHh4KpEVwmzI8ngaMzv.jpg</thumbnail>
