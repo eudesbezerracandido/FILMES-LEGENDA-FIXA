@@ -3,6 +3,17 @@
 
 
 
+
+
+
+<item>
+<title>[COLOR silver][B] WRIBIONY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CEFD2B1582FD829DB6C9BCF7EF77B0B836094CDA</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/1RAXCNe6JWFl5tR5JBMihmJAqHp.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Dominik (Piotr Adamczyk), estudante de doutorado na Universidade de Wrocław, especializado em história da arte, é enviado a Porto Ercole por ordem de um professor (Torsten Voges) para coletar material sobre o período mais misterioso da vida de Caravaggio. Ao conhecer Silvia (Alessandra Mastronardi) e o padre local Paolo (Luca Calvani), ele inesperadamente se torna parte de uma intriga criminosa, descobrindo passo a passo o segredo cuidadosamente escondido de uma cidade discreta. Acontece que o mundo da arte que Dominik conheceu até agora não é o que pode parecer</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] DEATH SHOT [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BF3BD77D83340286AA0A6669C74A6DFC6F150A5A</link>
