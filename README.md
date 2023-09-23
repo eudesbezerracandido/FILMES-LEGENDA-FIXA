@@ -4,7 +4,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] HIDAYAH [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5216953CC90EF1D47547E17A2268AA9DDECAEED2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gukSJNCDL2Xx8XB9PE5bL5qBOBQ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Bahri, um jovem que mora na vila de Mekarsari. Um dia, Bahri percebeu que algo estava errado na vila de Mekarsari. Por curiosidade, ele também descobriu o que realmente acontecia na aldeia onde morava.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] WRIBIONY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
