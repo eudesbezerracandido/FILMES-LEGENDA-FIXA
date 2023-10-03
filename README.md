@@ -2,6 +2,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] THE ASSASSIN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C3B1AA0C3F3A491A72622F2FC3CFFF69D115B093</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ulobyNR62zvI1cKUk1YJ9QwKGkb.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Um drama histórico de ação que retrata a história do melhor espadachim de Joseon, Yi Nan, diante de um destino irreversível.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] SINDICALISTA - LEGENDA FIXA [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8f39b01415e2d80bd214ad6c61441d93093c2057</link>
