@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] TELL ME A CREEPY STORY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:80E5578E7881A65105EF0F33F0EE4437F2F7ECE2</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zuw3blK5tIRpv4lLnApeMLMn4bz.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> O apicultor que acidentalmente mata sua esposa antes de enterrar nervosamente o corpo dela sob sua horta. A criança nasce com um apetite insaciável e cada vez mais desumano. O casal aparentemente inofensivo que são assassinos em série e a mulher sozinha em casa que está petrificada que alguém quer matá-la. Esses contos aterrorizantes se reúnem em uma antologia.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] URADI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3E37F015DAF83708B50853EE84FE56D414EE141E</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/3kPLsJM9X07UpHbOPKwALrkeEm.jpg</thumbnail>
