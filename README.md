@@ -11,6 +11,14 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] SEM AR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9F32B0D90D76B44821FFAFEA99E2CFC8F58CFC85</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/An8KmLCOypg4PqpLa8P8f6uNiMT.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Duas irmãs vão mergulhar em um local lindo e remoto. Uma das irmãs é atingida por uma pedra, deixando-a presa 28 metros abaixo. Com níveis perigosamente baixos de oxigênio e baixas temperaturas, cabe à irmã lutar por sua vida.</info>
+</item>
+
+<item>
 <title>[COLOR silver][B] THE ASSASSIN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:C3B1AA0C3F3A491A72622F2FC3CFFF69D115B093</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ulobyNR62zvI1cKUk1YJ9QwKGkb.jpg</thumbnail>
