@@ -11,6 +11,15 @@
 </item>
 
 <item>
+<title>[COLOR silver][B] URADI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3E37F015DAF83708B50853EE84FE56D414EE141E</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3kPLsJM9X07UpHbOPKwALrkeEm.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um estudante universitário procura uma forma de ganhar dinheiro rápido e fácil e descobre que não é tão fácil quanto imaginava.</info>
+</item>
+
+
+<item>
 <title>[COLOR silver][B] SEM AR [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9F32B0D90D76B44821FFAFEA99E2CFC8F58CFC85</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/An8KmLCOypg4PqpLa8P8f6uNiMT.jpg</thumbnail>
