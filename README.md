@@ -2,7 +2,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] O RETORNO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A1033D57A1169B489080D280666FE5625F0F6E5C</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/c8B4DsVcFVDLVmbpHMHU3RjLNAV.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Há sete anos, Zaid entrou em guerra contra o submundo de Copenhague para vingar a morte de seu irmão. Sua identidade como um respeitado médico de cardiologia e a vida como um homem de família é apenas um sonho que se desvanece, e na prisão Zaid sofre a perda de seu filho Noah, que ele mal conhece. Quando um agente policial aborda Zaid e lhe oferece um acordo para ser libertado em troca de se infiltrar no submundo de Copenhague, ele vê sua chance de recuperar os restos da vida familiar que deixou para trás. Mas tudo tem um preço e Zaid percebe que colocou seriamente em perigo a vida do filho. Afinal, uma vez que você se torna parte do submundo, existe alguma saída?</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] THE ASSASSIN [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
