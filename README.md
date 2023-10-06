@@ -2,6 +2,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] TRÁFICO SEXUAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83615453F5DF0FB57F759FE8D45B2C612FEE7EE9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/wQrfnO1r5t3Md5rBerh9ump9A6J.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Recém-saído da prisão, um ex-cobrador de dívidas que trabalha para um chefe de gangue é informado de que tem um tumor cerebral terminal. Na tentativa de expiar seu passado, ele resgata uma jovem do tráfico, forçando-o a um jogo mortal de gato e rato com seu chefe.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] O RETORNO [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:A1033D57A1169B489080D280666FE5625F0F6E5C</link>
