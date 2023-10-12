@@ -5,6 +5,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] GOD FORGIVES I DON'T [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AC95C4032510801A71E90ABE00BA5368D2BDF086</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/u9NtlmK5rqBFkNmAKguPkL81zTQ.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> Quando um marido, pai e ministro dedicado abre sua própria igreja, ele descobre que sua esposa e melhor amigo cometeram um ato imperdoável.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] EVINCED [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BE4C01886F1892E585AF444964A342CAD55E589B</link>
