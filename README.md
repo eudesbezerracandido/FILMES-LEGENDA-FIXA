@@ -4,7 +4,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] IRATI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:330D6AAA4546CBB1A922DB886CA8BBB358BC03AF</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jVUpT8PIWU9mpUWQqEyYDqmFN2y.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Pirenéus Ocidentais, ano 778. Quando a sua terra é ameaçada pelos implacáveis ​​exércitos do imperador franco, um senhor da guerra basco pede ajuda aos seus deuses ancestrais.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] GOD FORGIVES I DON'T [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
