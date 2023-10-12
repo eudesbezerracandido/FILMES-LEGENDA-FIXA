@@ -4,6 +4,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] HAPPY BIRTHDAY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8EDB69B3D56AC1A6BB2A8C8DBF5DA0ACFFA6127C</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/nTDG0dMwgokJUBkpC2ksp8oJaTW.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Uma jovem estudante enfrenta seu passado horrível quando seus amigos da faculdade a levam para uma casa “assombrada” nos arredores da cidade. Os estudantes se encontram no lugar errado, na hora errada, enquanto um assassino fugitivo está escondido na casa.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] IRATI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:330D6AAA4546CBB1A922DB886CA8BBB358BC03AF</link>
