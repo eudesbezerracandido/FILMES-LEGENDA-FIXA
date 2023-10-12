@@ -3,6 +3,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] EVINCED [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:BE4C01886F1892E585AF444964A342CAD55E589B</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/hnDf9cH3XnLbmdyBmE029l1xC44.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info>Um usuário anônimo postando vídeos de previsões sobre o futuro do país se torna viral porque eles acabam acertando. No entanto, as coisas mudam quando o usuário mascarado precisa da ajuda do detetive que o está caçando.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] TRÁFICO SEXUAL [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:83615453F5DF0FB57F759FE8D45B2C612FEE7EE9</link>
