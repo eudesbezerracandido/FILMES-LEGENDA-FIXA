@@ -3,7 +3,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] STATIC CODES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DCF01DCF5C2C6FF6E18B8BFE6746F381261D2834</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/tke2YdfPnJtehXwrxfTYTfos5SS.jpg</thumbnail>
+<fanart>https://ia801404.us.archive.org/31/items/fanart-freeddons/9.jpeg</fanart>
+<info> A esposa de um homem foi sequestrada por alienígenas há dez anos, durante um acidente de carro que o deixou paralisado da cintura para baixo. Desistido da vida, ele ficou consumido por uma única missão: encontrar sua esposa.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] HAPPY BIRTHDAY [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
