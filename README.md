@@ -3,6 +3,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] DOU SHI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:632CBCA1A5DF1E59C6E0E2D25C5B63EE70212304</link>
+<thumbnail></thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Ele estava orgulhoso de seu irmão que ganhou o campeonato de artes marciais. Achei que, com meu irmão para me proteger, eu poderia ser sempre tão despreocupado quanto um adolescente. Seu irmão acabou morrendo de ferimentos graves no ringue do Campeonato Mundial de Artes Marciais. O irmão mais novo jurou vingança para reconquistar os últimos desejos de seu irmão, provando ao mundo que os amarelos podem se destacar no mundo.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] STATIC CODES [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:DCF01DCF5C2C6FF6E18B8BFE6746F381261D2834</link>
