@@ -3,7 +3,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] LOP NOR TOMB [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F81530CBFAA4266CEC24318133659CC93F4C2C16</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/dzzB67NRFDFNRayJ9UOX6rSNRSV.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info> Hu Bayi, Shirley Yang e Fatty Wang foram contratados pelo Professor Lin para se juntarem à equipe de proteção de relíquias culturais. Durante uma missão, acidentalmente recebi pistas sobre o pai de Shirley Yang, que era parente da antiga cidade de Lop Nur. Hu Bayi sabia que o desaparecimento de seu pai sempre foi um nó na mente de Shirley Yang e decidiu trabalhar com ela para explorar o paradeiro de seu pai e os segredos da antiga cidade de Lop Nur. Então o trio, junto com o professor Lin e outros, partiu na estrada para Lop Nur em busca da antiga cidade de Lop Nur. Houve muitos perigos no caminho e, após diversas dificuldades, eles finalmente encontraram a antiga cidade de Lop Nur, mas uma crise maior ainda os aguardava.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] DOU SHI [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
