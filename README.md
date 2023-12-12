@@ -3,7 +3,13 @@
 
 
 
-
+<item>
+<title>[COLOR silver][B] THE EXOCIST [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3315E38B8BC187B0DC08EBB3CA695E6F9982482E</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/zddK1YMeZrVKAEd33YdDUrTzZ4L.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Quando seu filho é possuído por um mal implacável, um pai contrata três exorcistas especialistas para expurgar o demônio e salvar sua família. Mas este demônio é apenas o guardião de um verdadeiro endiabrado que será libertado na Terra se o trio de exorcistas falhar.</info>
+</item>
 
 <item>
 <title>[COLOR silver][B] DARK PARASITE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
