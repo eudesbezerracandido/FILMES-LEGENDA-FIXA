@@ -3,6 +3,16 @@
 
 
 
+
+
+<item>
+<title>[COLOR silver][B] DARK PARASITE [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12B72F31AC888E1B07E1DDE4B2DC102C8B1E80A6</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/rhkL2T66YZOk0WkKYXVBuFZZQ7W.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Depois de um roubo em uma joalheria, um grupo de ladrões se refugia com um anfitrião em um prédio de apartamentos decadente no subúrbio. Mas eles não sabem que no porão se esconde uma obscura criatura alienígena com poderes telepáticos.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] LOP NOR TOMB [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:F81530CBFAA4266CEC24318133659CC93F4C2C16</link>
