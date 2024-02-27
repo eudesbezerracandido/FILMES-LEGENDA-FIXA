@@ -3,6 +3,15 @@
 
 
 
+
+<item>
+<title>[COLOR silver][B] DFARK CLOUD [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5D5C9998AB2675EB9960A92BF315B94485890F08</link>
+<thumbnail>https://media.themoviedb.org/t/p/original/q1ngkvPCnOYKeyNZjg8QqvaSnuZ.jpg</thumbnail>
+<fanart>https://ia601201.us.archive.org/0/items/fanart_202311/83b7a590.jpg</fanart>
+<info>Após as consequências de um terrível acidente, uma mulher é voluntariamente submetida à inteligência artificial para reabilitação.</info>
+</item>
+
 <item>
 <title>[COLOR silver][B] THE EXOCIST [/COLOR][/B][COLOR yellow]  FULL HD  [B][/COLOR][/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3315E38B8BC187B0DC08EBB3CA695E6F9982482E</link>
